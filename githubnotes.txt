@@ -1,0 +1,11 @@
+Github things to know
+
+initialize a repository
+    == git init
+
+    Add files to a git repository
+    == git add .
+
+    Commit files to a git repository
+    == git commit .
+
