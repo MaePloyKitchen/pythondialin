@@ -1,5 +1,7 @@
 Github things to know
 
+Link to info https://kbroman.org/github_tutorial/pages/init.html
+
 initialize a repository
     == git init
 
@@ -9,3 +11,9 @@ initialize a repository
     Commit files to a git repository
     == git commit .
 
+Make sure your ssh key is added to your Github account to make pushes via command prompt. 
+
+Add remote origin
+    git remote add origin git@github.com:username/new_repo
+Push to a branch
+    git push -u origin master
